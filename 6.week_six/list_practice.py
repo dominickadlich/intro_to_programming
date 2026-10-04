@@ -23,8 +23,3 @@ abcde.append('F')
 
 # Print the updated list.
 print(abcde)
-
-# Expected Result:
-# [4, 0, 0, 5, -1]
-# Length: 5
-# ['A', 'B', 'C', 'D', 'E', 'F']

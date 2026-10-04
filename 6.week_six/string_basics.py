@@ -16,10 +16,3 @@ print(f"Modified: {modified}")
 result = '@' in modified 
 
 print(f"Is '@' in the string? {result}")
-
-# Expected Result:
-# Length of name: 12
-# Uppercase: DAVID JOHNS
-# Lowercase: david johns
-# Modified: D@vid Johns
-# Is '@' in the string? True

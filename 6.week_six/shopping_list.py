@@ -19,14 +19,3 @@ shopping_list.remove(user_remove)
 
 # Print the updated list.
 print(f"Updated list: {shopping_list}")
-
-# Expected Result:
-
-# Enter item 1: bread
-# Enter item 2: eggs
-# Enter item 3: milk
-# Enter item 4: apples
-# Enter item 5: lettuce
-# Your list: ['bread', 'eggs', 'milk', 'apples', 'lettuce']
-# Which item do you want to remove? milk
-# Updated list: ['bread', 'eggs', 'apples', 'lettuce']

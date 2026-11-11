@@ -1,0 +1,3 @@
+Welcome to CS 134!
+This chapter explains how to read files.
+Python makes file reading simple.

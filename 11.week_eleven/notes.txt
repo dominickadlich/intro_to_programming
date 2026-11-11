@@ -1,0 +1,5 @@
+File handling is an essential Python topic.
+Always open a file before writing.
+Always close it when finished.
+Append mode adds new content at the end.
+Existing data is never lost when appending.
